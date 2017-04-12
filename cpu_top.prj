@@ -1,0 +1,4 @@
+verilog work "instruction_memory.v"
+verilog work "data_memory.v"
+verilog work "cpu.v"
+verilog work "cpu_top.v"

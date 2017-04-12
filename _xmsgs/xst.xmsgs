@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1670" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\data_memory.v" Line 29: Signal &lt;<arg fmt="%s" index="1">data_mem</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1670" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\instruction_memory.v" Line 28: Signal &lt;<arg fmt="%s" index="1">instructions</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 129: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="462" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 135: if-condition does not match any sensitivity list edge
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 137: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 141: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 142: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 143: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 144: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 145: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 146: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 147: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 148: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 149: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 150: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 151: Signal &lt;<arg fmt="%s" index="1">gr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 153: Signal &lt;<arg fmt="%s" index="1">gr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 156: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 157: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 158: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 159: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 160: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 161: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 162: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 163: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 164: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 165: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 166: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 167: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 168: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 169: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 170: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 171: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 172: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 173: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 174: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 175: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 176: Signal &lt;<arg fmt="%s" index="1">id_ir</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 178: Signal &lt;<arg fmt="%s" index="1">gr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 181: Signal &lt;<arg fmt="%s" index="1">gr</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="error" file="HDLCompiler" num="1128" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 135: Assignment under multiple single edges is not supported for synthesis
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="new" >"E:\meng\University\finalSectionOfGrade3\CaseStudyforEmbeddedSystemArchitectureDesign\experiments\project\pipeline_cpu\cpu.v" Line 51: Empty module &lt;<arg fmt="%s" index="1">cpu</arg>&gt; remains a black box.
+</msg>
+
+</messages>
+
